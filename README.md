@@ -15,7 +15,7 @@
 
 <h4>𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗳𝗳𝘀:</h4>
 
-- 🎓 I’m a forth year undergraduate student from **[Hainan University](https://www.hainanu.edu.cn/)**, major in mathematics and applied mathematics.  **[𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗜𝗜𝗘)](http://www.iie.ac.cn/) / [𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗔𝗰𝗮𝗱𝗲𝗺𝘆 𝗼𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝘀 (𝗨𝗖𝗔𝗦)](https://www.ucas.ac.cn/)**   
+- 🎓 I’m a forth year undergraduate student from **[Hainan University](https://www.hainanu.edu.cn/)**, major in mathematics and applied mathematics.  I will study for a master’s degree in mathematics at **[Southern University of Science and Technology](https://www.sustech.edu.cn/)** in the autumn of 2023.   
 - 💌 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲: **[perrychuh@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺](mailto:perrychuh@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺)**
 - 🔎 𝗞𝗻𝗼𝘄 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 𝗮𝘁 **[Perry Chuh'𝘀 Page](https://Nalydz.github.io) ** 🔍
 
