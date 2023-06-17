@@ -5,8 +5,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/Nalydz">𝗚𝗶𝘁𝗵𝘂𝗯</a> ∙ 
-    <a href="https://Nalydz.github.io">𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲</a> ∙
-    <a href="https://github.com/Nalydz/Nalydz.github.io/raw/main/pdf/CV_CN.pdf">𝗖𝗩</a> 
+    <a href="https://Nalydz.github.io">𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲</a> 
   </samp>
 </p>
 
