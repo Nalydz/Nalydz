@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> 𝗛𝗼, 𝗜𝘁'𝘀 <a href="https://Nalydz.github.io">Perry Chuh</a> 👨‍💻 </h2>
+<h2 align="center"> 𝗛i, this is <a href="https://Nalydz.github.io">Perry Chuh</a> 👨‍💻 </h2>
 
 <p align="center">
   <samp>
