@@ -21,7 +21,7 @@
 
 ![snake gif](https://github.com/Nalydz/Nalydz/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
+<p align="center">I'll put some codes or notes here about mathematics</p>
 
 
 
